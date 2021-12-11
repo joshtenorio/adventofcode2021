@@ -87,4 +87,6 @@ for n in range(numSteps):
                 numF += 1
     if numF == 100:
         print(n+1)
+        # this stops 100 steps earlier
+        # but i entered the right answer by accident anyways LOL
         break
